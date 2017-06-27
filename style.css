@@ -42,8 +42,8 @@ a:hover {
 }
 
 #logo{
-  color: rgb(225, 0, 152);
-  font-size: 35px;
+  color: #41A3C0;
+  font-size: 40px;
   font-family: 'Pacifico', cursive;
   float: left;
   margin-left: 50px;
@@ -58,6 +58,7 @@ a:hover {
   padding: 150px;
   color: white;
   text-shadow: 1px 1px 1px black;
+  background: url(picture/FOND2.jpg);
 }
 
 #baseline h1 {
@@ -78,8 +79,8 @@ a:hover {
 }
 
 .feature, .defi{
-  border: 1px solid rgb(225, 0, 152);
-  background: #FAFAFA;
+  border: 1px solid rgb(225, 192, 0) ;
+  background:#FAFAFA ;
   margin: 15px;
   padding: 15px 0;
   text-align: center;
@@ -87,12 +88,14 @@ a:hover {
 }
 
  #download{
+  color: #41A3C0;
   margin: 0 auto;
   width: 90%
   font-weight: bolder;
   display:flex;
   flex-wrap: wrap;
   justify-content: center;
+  font-size: 1.5em;
 }
 
  #apropos{
@@ -114,7 +117,7 @@ nav ul {
 }
 
 #welcome{
-  background-color: #41A3C0;
+  background-color: rgb(255, 192, 0);
   text-align: center;
   padding: 50px;
   color: white;
